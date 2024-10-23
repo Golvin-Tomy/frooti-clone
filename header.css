@@ -1,0 +1,80 @@
+.header{
+    background-color: #03032e;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.home{
+    color: white;
+    padding-left: 227px;
+    padding-top: 26px;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+.company{
+    color: white;
+    padding-left: 21px;
+    padding-top: 26px;
+    font-size: 16px;
+    padding-right: 17px;
+}
+.arrow-button1{
+    height: 15px;
+    padding-top: 28px;
+    padding-left: 0px
+}
+.brands{
+    color: white;
+    padding-top: 26px;
+    padding-left: 30px;
+    padding-right: 17px;
+}
+.arrow-button2{
+    height: 15px;
+    padding-top: 28px;
+    padding-left: 0px  
+}
+.business{
+    color: white;
+    padding-top: 26px;
+    padding-left: 30px;
+    padding-right: 17px;
+}
+.arrow-button3{
+    height: 15px;
+    padding-top: 28px;
+    padding-left: 0px    
+}
+.news{
+    color: white;
+    padding-top: 26px;
+    padding-left: 30px;
+    padding-right: 17px;
+}
+.sustain{
+    color: white;
+    padding-top: 26px;
+    padding-left: 20px;
+    padding-right: 17px;
+}
+.arrow-button4{
+    height: 15px;
+    padding-top: 28px;
+    padding-left: 0px   
+}
+.careers{
+    color: white;
+    padding-top: 26px;
+    padding-left: 30px;
+    padding-right: 17px;
+}
+
+.contact{
+    color: white;
+    padding-top: 26px;
+    padding-left: 20px;
+    padding-right: 17px;
+}
+

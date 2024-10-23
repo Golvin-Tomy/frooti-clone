@@ -1,0 +1,92 @@
+.alia-img{
+    width: 1349px;
+    display: flex;
+}
+.orange{
+    height: 1317px;
+    width: 670px;
+    background-color: rgb(235, 172, 36);
+    position: relative;
+   
+}
+.pic-live{
+    position: relative;
+}
+.pic-live img{
+    height: 162px;
+    margin-left: 90px;
+    margin-top: 500px;
+}
+.letter-live{
+    position: absolute;
+    font-family: "EksellDisplayWeb-Small";
+    font-weight: 1000;
+    font-size: 73px;
+    width: 338px;
+    color: white;
+    top: 423px;
+    margin-left: 167px;
+
+}
+.for-flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.long-text p{
+    font-family: "merivaregular", Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    width: 403px;
+    margin-left: 118px;
+    margin-top: 140px;
+    letter-spacing: .7px;
+    line-height: 30px;
+}
+.icons{
+    margin-left: 120px;
+}
+
+.bottle-image{
+height: 758px;
+width: 1349px;
+}
+
+.office{
+    width: 175px;
+    margin-top: 50px;
+    font-size: 13px;
+    margin-left: 61px;
+    letter-spacing: 1px;
+    line-height: 18px;
+
+   
+}
+.last-line{
+    font-size: 13px;
+    margin-left: 61px;
+    letter-spacing: 1px;
+    margin-right: 136px;
+
+}
+.last-flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.if-you{
+    margin-top: 50px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 18px;
+    width: 395px;
+    margin-right: 80px;
+}
+.email{
+    font-size: 13px; 
+}
+.last-three{
+    margin-top: 40px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 13px;
+}
